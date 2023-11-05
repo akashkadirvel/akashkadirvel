@@ -37,12 +37,12 @@ I am a Front End Developer with a huge love for React.js, AngularJs, RDBMS, Word
 I love to listen to music.
 
 ### Numbers
-![akashkadirvel's Stats](https://github-readme-stats.vercel.app/api?username=akashkadirvel&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+![akashkadirvel's Stats](https://github-readme-stats.vercel.app/api?username=akashkathirvel&theme=darcula&show_icons=true&hide_border=true&count_private=true)
 
-![akashkadirvel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=akashkadirvel&theme=darcula&hide_border=true)
+![akashkadirvel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=akashkathirvel&theme=darcula&hide_border=true)
 
-![akashkadirvel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akashkadirvel&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+![akashkadirvel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akashkathirvel&theme=darcula&show_icons=true&hide_border=true&layout=compact)
 
 ### Where to find me
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-kadirvel/) 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kathirvel-akash/) 
